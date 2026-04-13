@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c82694b1-930b-4fae-9b5f-789f666d4a78"
+      }
+    },
+    "android": {
+      "package": "com.dineshaiml.electionassistant"
+    }
+  }
+}
